@@ -6,7 +6,7 @@ meta:
 links:
 - title: Первый раздел (index.yaml)
   description: Описание первой страници на разводящей странице (index.yaml)
-  href: pages/firs-page.md
+  href: pages/first-page.md
 - title: Вторая страница (index.yaml)
   description: Описание второй страници на разводящей странице (index.yaml)
   href: pages/second-page.md
