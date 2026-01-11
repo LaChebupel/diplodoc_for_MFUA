@@ -1,7 +1,7 @@
-title: Тестовая Док
+title: Документация МФЮА
 href: index.yaml
 items:
-  - name: Общее
-    href: pages/faq.md
-  - name: Тестовый
-    href: pages/how-to.md
+  - name: Первая страница
+    href: pages/first-page.md
+  - name: Вторая страница
+    href: pages/second-page.md

@@ -1,12 +1,12 @@
-title: Тестовая разводящая страница
-description: Страница для ссылок на другие страницы
+title: Разводящая страница (index.yaml)
+description: Страница для ссылок на другие страницы (index.yaml)
 meta:
-  title: Метаданные
+  title: Метаданные (index.yaml)
   noIndex: true
 links:
-- title: Первый раздел
-  description: Описание первого раздела
-  href: pages/faq
-- title: Второй раздел
-  description: Описание второго раздела
-  href: pages/how-to
+- title: Первый раздел (index.yaml)
+  description: Описание первой страници на разводящей странице (index.yaml)
+  href: pages/firs-page.md
+- title: Вторая страница (index.yaml)
+  description: Описание второй страници на разводящей странице (index.yaml)
+  href: pages/second-page.md
