@@ -1,0 +1,7 @@
+title: Тестовая Док
+href: index.yaml
+items:
+  - name: Общее
+    href: pages/faq.md
+  - name: Тестовый
+    href: pages/how-to.md

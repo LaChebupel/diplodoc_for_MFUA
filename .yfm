@@ -1,0 +1,12 @@
+# Корневая секция параметров
+strict: true
+breaks: false
+apply-presets: true
+varsPreset: 'external'
+needToSanitizeHtml: true
+langs: ['en', 'ru']
+
+# Секция параметров вьюера (docs-viewer)
+docs-viewer:
+  project-name: МФЮА-дока
+  langs: ['ru']

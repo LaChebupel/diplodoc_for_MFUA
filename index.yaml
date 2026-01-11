@@ -1,0 +1,12 @@
+title: Тестовая разводящая страница
+description: Страница для ссылок на другие страницы
+meta:
+  title: Метаданные
+  noIndex: true
+links:
+- title: Первый раздел
+  description: Описание первого раздела
+  href: pages/faq
+- title: Второй раздел
+  description: Описание второго раздела
+  href: pages/how-to
