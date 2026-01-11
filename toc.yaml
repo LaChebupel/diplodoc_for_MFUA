@@ -5,3 +5,5 @@ items:
     href: pages/first-page.md
   - name: Вторая страница
     href: pages/second-page.md
+  - name: Выгрузка Веб-форм
+    href: pages/galan-page.md
